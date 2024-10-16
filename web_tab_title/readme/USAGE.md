@@ -4,4 +4,4 @@ To use this module, you need to:
 2. Go to Settings App
 3. Select Users & Companies Section > Companies
 4. Open any Company Form
-5. A Title can be enteres in the Tab Title Field
+5. A Title can be entered in the Tab Title Field
